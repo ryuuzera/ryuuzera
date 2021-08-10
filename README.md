@@ -1,7 +1,8 @@
-# Fagner Menezes 🕹️
+# Oi, eu sou o Fagner 🕹️
 
 - ⭐ Analista na Frontys Sistemas
 - 💬 Português(Brasil) / English (US)
+
 <div>
 <a href="https://github.com/ryuuzera/"> 
   <img align="center" alt="Delphi" height="30" width="40" src="https://github.com/simple-icons/simple-icons/blob/master/icons/delphi.svg">
