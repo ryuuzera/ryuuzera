@@ -2,7 +2,7 @@
 
 - ⭐ Analista na Frontys Sistemas
 - 💬 Português(Brasil) / English (US)
-
+- ✨ Delphi RAD Developer
 <div>
 <a href="https://github.com/ryuuzera/"> 
   <img color="#e60000" align="center" alt="Delphi" height="30" width="40" src="https://github.com/simple-icons/simple-icons/blob/master/icons/delphi.svg">
@@ -20,15 +20,15 @@
 <br>
 <div>
   <a href="https://github.com/ryuuzera/">  
-    <img height="160em" src="https://github-readme-stats.vercel.app/api?username=ryuuzera&count_private=true&show_icons=true&theme=tokyonight" href="#">
+    <img height="130em" src="https://github-readme-stats.vercel.app/api?username=ryuuzera&count_private=true&hide_border=true&show_icons=true&theme=tokyonight" href="#">
   </a>
   <a href="https://github.com/ryuuzera/">  
-    <img align="right" height="110em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ryuuzera&layout=compact&theme=tokyonight" href="#">
+    <img align="justify" height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ryuuzera&layout=compact&hide_border=true&theme=tokyonight" href="#">
   </a>
-</div><br>
-<div>
-   <img align="center" height="100em" src="https://github-readme-stats.vercel.app/api/pin/?username=ryuuzera&repo=smartsetup&theme=tokyonight">
-</div><br>
+    <img align="justify" height="100em" src="https://github-readme-stats.vercel.app/api/pin/?username=ryuuzera&repo=smartsetup&hide_border=true&theme=tokyonight">
+    <img align="justify" height="100em" src="http://www.andreanolanusse.com/pt/wp-content/uploads/2011/09/Icon_Delphi.png">
+  </div>
+ 
 
 
 
