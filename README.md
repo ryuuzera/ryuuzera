@@ -5,7 +5,7 @@
 
 <div>
 <a href="https://github.com/ryuuzera/"> 
-  <img align="center" alt="Delphi" height="30" width="40" src="https://github.com/simple-icons/simple-icons/blob/master/icons/delphi.svg">
+  <img color="#e60000" align="center" alt="Delphi" height="30" width="40" src="https://github.com/simple-icons/simple-icons/blob/master/icons/delphi.svg">
 </a>
 <a href="https://github.com/ryuuzera/"> 
   <img align="center" alt="Windows" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/windows8/windows8-original.svg">
