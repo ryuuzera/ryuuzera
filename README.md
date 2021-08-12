@@ -27,7 +27,7 @@
   </a>
 </div><br>
 <div>
-   <img align="center" height="100em" src="https://github-readme-stats.vercel.app/api/pin/?username=ryuuzera&repo=ryuuzera&theme=tokyonight">
+   <img align="center" height="100em" src="https://github-readme-stats.vercel.app/api/pin/?username=ryuuzera&repo=smartsetup&theme=tokyonight">
 </div><br>
 
 
