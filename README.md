@@ -25,6 +25,8 @@
   <a href="https://github.com/ryuuzera/">  
     <img align="justify" height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ryuuzera&layout=compact&hide_border=true&theme=tokyonight" href="#">
   </a>
+  </div>
+  <div>
     <img align="justify" height="100em" src="https://github-readme-stats.vercel.app/api/pin/?username=ryuuzera&repo=smartsetup&hide_border=true&theme=tokyonight">
     <img align="justify" height="100em" src="http://www.andreanolanusse.com/pt/wp-content/uploads/2011/09/Icon_Delphi.png">
   </div>
