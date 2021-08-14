@@ -34,7 +34,7 @@ Para entrar em contato comigo: [contato.fagnermenezes@gmail.com]()<br />
     <img align="justify" height="155em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ryuuzera&layout=compact&hide_border=true&theme=tokyonight" href="#">
   </div>
   <div>
-    <img align="left" height="140em" src="https://github-readme-stats.vercel.app/api/pin/?username=ryuuzera&repo=smartsetup&hide_border=true&theme=tokyonight"> <img align="left" height="150px" src="https://s6.gifyu.com/images/ezgif-1-bf355e537b22.gif"><br />
+    <img align="left" height="138em" src="https://github-readme-stats.vercel.app/api/pin/?username=ryuuzera&repo=smartsetup&hide_border=true&theme=tokyonight"> <img align="left" height="150px" src="https://s6.gifyu.com/images/ezgif-1-bf355e537b22.gif"><br />
   
   </div>
     
