@@ -2,7 +2,7 @@
 
 <h6>(for english profile you can use translate.google.com 💡)</h6>
 
-Olá, Sou [Fagner Menezes](https://fmsoftware.online/), um estudante de computação desde o nascimento, apaixonado por tecnologia e tudo é movido por ela. Sou um eterno estudante e entusiasta de conhecimentos.
+Olá, Sou [Fagner Menezes](https://fmsoftware.online/), um estudante de computação desde o nascimento, apaixonado por tecnologia e tudo que é movido por ela. Sou um eterno estudante e entusiasta de conhecimentos.
 
 Trabalho como desenvolvedor e utilizo esse espaço para deixar meus pequenos projetos pessoais que desenvolvo fora do ambiente de trabalho.
 Para entrar em contato comigo: [contato.fagnermenezes@gmail.com]()<br />
