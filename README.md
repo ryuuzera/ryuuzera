@@ -50,8 +50,7 @@ function aboutMe(fagner: developer): boolean;
     status := "learning how to code";
   with fagner do
     if openSource then
-      setCodeMode.On(Self);
-  Result := True;
+      Result := True;
   end;
 ```
   
