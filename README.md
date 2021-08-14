@@ -34,12 +34,13 @@ Para entrar em contato comigo: [contato.fagnermenezes@gmail.com]()<br />
   </a>
   <a href="https://github.com/ryuuzera/">  
     <img align="justify" height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ryuuzera&layout=compact&hide_border=true&theme=tokyonight" href="#">
-    <img align="left" height="240px" src="https://s6.gifyu.com/images/ezgif-1-bf355e537b22.gif">
+    <img align="right" height="240px" src="https://s6.gifyu.com/images/ezgif-1-bf355e537b22.gif">
   </a>
   </div>
   <div>
     <img align="left" height="100em" src="https://github-readme-stats.vercel.app/api/pin/?username=ryuuzera&repo=smartsetup&hide_border=true&theme=tokyonight">  
   </div>
+    
   <br /><br /><br /><br />
   <hr />
   
@@ -58,6 +59,7 @@ function aboutMe(fagner: developer): boolean;
 ```
   
   <hr />
+
   
   
 
