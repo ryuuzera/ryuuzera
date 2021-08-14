@@ -6,7 +6,8 @@ Olá, Sou [Fagner Menezes](https://fmsoftware.online/), um estudante de computa�
 
 Trabalho como desenvolvedor e utilizo esse espaço para deixar meus pequenos projetos pessoais que desenvolvo fora do ambiente de trabalho.
 Para entrar em contato comigo: [contato.fagnermenezes@gmail.com]()<br />
-<h6><ul>
+<h6><img align="left" height="120px" src="https://s6.gifyu.com/images/ezgif-1-bf355e537b22.gif">
+ <ul>
  <li>⭐ Analista na Frontys Sistemas
  <li>💬 Português(Brasil) / English (US)
  <li>✨ Delphi RAD Developer<br>
@@ -34,11 +35,10 @@ Para entrar em contato comigo: [contato.fagnermenezes@gmail.com]()<br />
     <img align="justify" height="155em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ryuuzera&layout=compact&hide_border=true&theme=tokyonight" href="#">
   </div>
   <div>
-    <img align="left" height="138em" src="https://github-readme-stats.vercel.app/api/pin/?username=ryuuzera&repo=smartsetup&hide_border=true&theme=tokyonight"> <img align="left" height="150px" src="https://s6.gifyu.com/images/ezgif-1-bf355e537b22.gif"><br />
+  <img align="left" height="138px" src="https://github-readme-stats.vercel.app/api/pin/?username=ryuuzera&repo=smartsetup&hide_border=true&theme=tokyonight"><img align="justify" height="136px" src="https://media.giphy.com/media/AEsna63rnGlOg/giphy.gif">
   
   </div>
     
-  <br /><br /><br /><br /><br /><br />
   <hr />
   
   ```pascal
