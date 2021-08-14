@@ -28,20 +28,17 @@ Para entrar em contato comigo: [contato.fagnermenezes@gmail.com]()<br />
 <a href="https://github.com/ryuuzera/"><img align="center" alt="Windows" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg"></a> 
 </div>
 <br>
-<div>
-  <a href="https://github.com/ryuuzera/">  
-    <img height="130em" src="https://github-readme-stats.vercel.app/api?username=ryuuzera&count_private=true&hide_border=true&show_icons=true&theme=tokyonight" href="#">
-  </a>
-  <a href="https://github.com/ryuuzera/">  
-    <img align="justify" height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ryuuzera&layout=compact&hide_border=true&theme=tokyonight" href="#">
-    <img align="right" height="240px" src="https://s6.gifyu.com/images/ezgif-1-bf355e537b22.gif">
-  </a>
+<div>  
+  
+   <img height="155em" alight="justify" src="https://github-readme-stats.vercel.app/api?username=ryuuzera&count_private=true&hide_border=true&show_icons=true&theme=tokyonight">
+    <img align="justify" height="155em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ryuuzera&layout=compact&hide_border=true&theme=tokyonight" href="#">
   </div>
   <div>
-    <img align="left" height="100em" src="https://github-readme-stats.vercel.app/api/pin/?username=ryuuzera&repo=smartsetup&hide_border=true&theme=tokyonight">  
+    <img align="left" height="140em" src="https://github-readme-stats.vercel.app/api/pin/?username=ryuuzera&repo=smartsetup&hide_border=true&theme=tokyonight"> <img align="left" height="150px" src="https://s6.gifyu.com/images/ezgif-1-bf355e537b22.gif"><br />
+  
   </div>
     
-  <br /><br /><br /><br />
+  <br /><br /><br /><br /><br />
   <hr />
   
   ```pascal
