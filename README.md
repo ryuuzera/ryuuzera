@@ -37,7 +37,7 @@ Para entrar em contato comigo: [contato.fagnermenezes@gmail.com]()<br />
   
   ```pascal
 function aboutMe(fagner: developer): boolean;
-  var code, databases, skill-level array of string;
+  var code, databases, skill-level: array of string;
   begin
     code := ["delphi", "html", "css", "javascript"];
     databases := ["firebird", "mySQL"];
