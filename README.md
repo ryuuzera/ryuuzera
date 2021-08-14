@@ -45,9 +45,9 @@ Para entrar em contato comigo: [contato.fagnermenezes@gmail.com]()<br />
 function aboutMe(fagner: developer): boolean;
   var code, databases, skill-level array of string;
   begin
-    code := "delphi", "html", "css", "javascript";
-    databases := "firebird", "mySQL"
-    status := "learning how to code";
+    code := ["delphi", "html", "css", "javascript"];
+    databases := ["firebird", "mySQL"];
+    status := ["learning how to code"];
   with fagner do
     if openSource then
       Result := True;
