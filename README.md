@@ -55,6 +55,7 @@ function aboutMe(fagner: developer): boolean;
 ```
   
   <hr />
+ <img src="https://media.giphy.com/media/5e25aUTZPcI94uMZgv/giphy.gif">
 
   
   
