@@ -1,4 +1,4 @@
-# Olá, Mundo <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+# Olá, Mundo <a href="#"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
 
 <h6>(for english profile you can use translate.google.com 💡)</h6>
 
@@ -15,15 +15,9 @@ Para entrar em contato comigo: [contato.fagnermenezes@gmail.com]()<br />
 </h6>
 <div>
   <div>
-<a href="https://github.com/ryuuzera/"> 
   <img align="center" height="36px" src="http://www.andreanolanusse.com/pt/wp-content/uploads/2011/09/Icon_Delphi.png">
-</a>
-<a href="https://github.com/ryuuzera/"> 
   <img align="center" alt="Windows" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/windows8/windows8-original.svg">
-</a>
-<a href="https://github.com/ryuuzera/"> 
   <img align="center" alt="Windows" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-plain.svg">
-</a>
 <a href="https://github.com/ryuuzera/"><img align="center" alt="Windows" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg"></a>
 <a href="https://github.com/ryuuzera/"><img align="center" alt="Windows" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain.svg"></a>
 <a href="https://github.com/ryuuzera/"><img align="center" alt="Windows" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg"></a> 
