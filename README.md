@@ -6,7 +6,7 @@ Olá, Sou [Fagner Menezes](https://fmsoftware.online/), um estudante de computa�
 
 Trabalho como desenvolvedor e utilizo esse espaço para deixar meus pequenos projetos pessoais que desenvolvo fora do ambiente de trabalho.
 Para entrar em contato comigo: [contato.fagnermenezes@gmail.com]()<br />
-<h6><img align="left" height="120px" src="https://s6.gifyu.com/images/ezgif-1-bf355e537b22.gif">
+<h6><img align="left" height="120px" src="https://s6.gifyu.com/images/ezgif-1-bf355e537b22.gif"><br>
  <ul>
  <li>⭐ Analista na Frontys Sistemas
  <li>💬 Português(Brasil) / English (US)
