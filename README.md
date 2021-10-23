@@ -29,7 +29,7 @@ Para entrar em contato comigo: [contato.fagnermenezes@gmail.com]()<br />
 <br>
 <div>  
   
-   <img height="155em" alight="justify" src="https://github-readme-stats.vercel.app/api?username=ryuuzera&count_private=true&hide_border=true&show_icons=true&theme=tokyonight">
+   <img height="155em" alight="justify" src="https://github-readme-stats.vercel.app/api?username=ryuuzera&count_private=flase&hide_border=true&show_icons=true&theme=tokyonight">
     <img align="justify" height="155em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ryuuzera&layout=compact&hide_border=true&theme=tokyonight" href="#">
   </div>
   <div>
