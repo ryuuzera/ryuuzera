@@ -29,8 +29,8 @@ Para entrar em contato comigo: [contato.fagnermenezes@gmail.com]()<br />
 <br>
 <div>  
   
-   <img height="155em" alight="justify" src="https://github-readme-stats.vercel.app/api?username=ryuuzera&count_private=flase&hide_border=true&show_icons=true&theme=tokyonight">
-    <img align="justify" height="155em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ryuuzera&layout=compact&hide_border=true&theme=tokyonight" href="#">
+   <img height="155em" alight="justify" src="https://github-readme-stats.vercel.app/api?username=ryuuzera&count_private=true&hide_border=true&show_icons=true&theme=tokyonight">
+    <img align="justify" height="155em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ryuuzeras&count_orivate=true&layout=compact&hide_border=true&theme=tokyonight" href="#">
   </div>
   <div>
   <img align="left" height="138px" src="https://github-readme-stats.vercel.app/api/pin/?username=ryuuzera&repo=streamboard&hide_border=true&theme=tokyonight"><img align="justify" height="136px" src="https://media.giphy.com/media/AEsna63rnGlOg/giphy.gif">
