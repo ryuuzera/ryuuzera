@@ -1,8 +1,11 @@
-# Olá, Mundo <a href="#"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
+# Hello, World <a href="#"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
 
-<h6>(for english profile you can use translate.google.com 💡)</h6>
+Hi, I'm <b>Fagner Menezes</b>, learning computing since birth, passionate about technology and everything powered by it. I'm an eternal student and knowledge enthusiast.
 
-Olá, Sou [Fagner Menezes](https://fmsoftware.online/), aprendendo computação desde o nascimento, apaixonado por tecnologia e tudo que é movido por ela. Sou um eterno estudante e entusiasta de conhecimentos.
+I work as a developer and I use this space to leave my small personal projects that I develop outside the work environment. To contact me: contato.fagnermenezes@gmail.com 
+<hr/>
+
+Olá, Sou <b>Fagner Menezes</b>, aprendendo computação desde o nascimento, apaixonado por tecnologia e tudo que é movido por ela. Sou um eterno estudante e entusiasta de conhecimentos.
 
 Trabalho como desenvolvedor e utilizo esse espaço para deixar meus pequenos projetos pessoais que desenvolvo fora do ambiente de trabalho.
 Para entrar em contato comigo: [contato.fagnermenezes@gmail.com]()<br />
