@@ -2,7 +2,7 @@
 
 Hi, I'm <b>Fagner Menezes</b>, learning computing since birth, passionate about technology and everything powered by it. I'm an eternal student and knowledge enthusiast.
 
-I work as a developer and I use this space to leave my small personal projects that I develop outside the work environment. To contact me: contato.fagnermenezes@gmail.com 
+I work as a developer and I use this space to leave my little personal projects that I develop outside the work environment. To contact me: contato.fagnermenezes@gmail.com 
 <hr/>
 
 Olá, Sou <b>Fagner Menezes</b>, aprendendo computação desde o nascimento, apaixonado por tecnologia e tudo que é movido por ela. Sou um eterno estudante e entusiasta de conhecimentos.
