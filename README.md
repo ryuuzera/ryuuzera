@@ -11,7 +11,7 @@ Trabalho como desenvolvedor e utilizo esse espaço para deixar meus pequenos pro
 Para entrar em contato comigo: [contato.fagnermenezes@gmail.com]()<br />
 <h6><img align="left" height="120px" src="https://s6.gifyu.com/images/ezgif-1-bf355e537b22.gif"><br>
  <ul>
- <li>⭐ Analista na Frontys Sistemas
+ <li>⭐ Desenvolvedor na SuperSoft
  <li>💬 Português(Brasil) / English (US)
  <li>✨ Delphi RAD Developer<br>
  </ul>
