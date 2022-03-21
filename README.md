@@ -44,15 +44,16 @@ Para entrar em contato comigo: [contato.fagnermenezes@gmail.com]()<br />
   
   ```pascal
 function aboutMe(fagner: developer): boolean;
-  var code, databases, skill-level: array of string;
   begin
-    code := ["delphi", "c#", "java", "html", "css", "javascript"];
-    databases := ["SQL"];
-    skill-level := ["learning", "how","to","code","forever"];
-   with fagner do
-   begin
-     if openSource then
-       Result := True;
+    if Assigned(Fagner) then
+    try
+      Coding.Start;
+      while not Code.End repeat;
+    finally
+      Result := Code.Done;
+    end
+    else
+     raise exception('Bring Coffee!');
    end;
   end;
 ```
