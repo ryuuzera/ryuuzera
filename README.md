@@ -48,7 +48,7 @@ function aboutMe(fagner: developer): boolean;
     if Assigned(Fagner) then
     try
       Coding.Start;
-      while not Code.End repeat;
+      while not Coding.Ends repeat;
     finally
       Result := Code.Done;
     end
