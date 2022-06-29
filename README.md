@@ -43,15 +43,16 @@ Para entrar em contato comigo: [contato.fagnermenezes@gmail.com]()<br />
   <hr />
   
   ```pascal
-function aboutMe(fagner: developer): boolean;
+function aboutMe(fagner: developer): TDev;
   begin
     if Assigned(Fagner) then
-    try
-      Coding.Start;
-      while not Coding.Ends repeat;
-    finally
-      Result := Code.Done;
-    end
+      try
+        Coding.Start;
+        repeat Coding() until
+          Coding.Ends;
+      finally
+        Result := Code.Done;
+      end
     else
      raise exception('Bring Coffee!');
    end;
