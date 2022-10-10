@@ -13,6 +13,7 @@ Trabalho como desenvolvedor e utilizo esse espaço para deixar meus pequenos pro
 Para entrar em contato comigo: [contato.fagnermenezes@gmail.com]()
 <br />
 <br>
+  <img align="justify" height="136px" src="https://media.giphy.com/media/AEsna63rnGlOg/giphy.gif"> <br/><br/>
 <a href="https://www.linkedin.com/in/fagner-menezes/">
     <img height="42" src="https://cdn2.iconfinder.com/data/icons/social-icon-3/512/social_style_3_in-306.png"/>
 </a>
@@ -42,16 +43,11 @@ Para entrar em contato comigo: [contato.fagnermenezes@gmail.com]()
 </div>
 </div>
 <br>
-<div>  
-   <img align="justify" height="155em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ryuuzera&langs_count=8&layout=compact&account_private=true&hide_border=true&theme=tokyonight" href="#">
-   <img height="155em" alight="justify" src="https://github-readme-stats.vercel.app/api?username=ryuuzera&count_private=true&hide_border=true&show_icons=true&theme=tokyonight">
+<div align="center">  
+   <img align="justify" height="155em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ryuuzera&langs_count=8&layout=compact&account_private=true&hide_border=false&theme=dracula" href="#">
+   <img height="155em" alight="justify" src="https://github-readme-stats.vercel.app/api?username=ryuuzera&count_private=true&hide_border=false&show_icons=true&theme=dracula">
     
   </div>
-  <div>
-  <img align="left" height="138px" src="https://github-readme-stats.vercel.app/api/pin/?username=ryuuzera&repo=genshin-app&hide_border=true&theme=tokyonight"><img align="justify" height="136px" src="https://media.giphy.com/media/AEsna63rnGlOg/giphy.gif">
-  
-  </div>
-    
   <hr />
   
   ```pascal
