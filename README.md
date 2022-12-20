@@ -1,32 +1,38 @@
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css">
 
-# Hello, World <a href="#"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
+<h1 align="center">Hello, World <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h1>
+<h3 align="center">Hi, I'm <stroke>Fagner Menezes</stroke>, learning computing since my birth, passionate about technology and everything powered by it. I'm an eternal student and knowledge enthusiast.</h3>
+<h3 align="center">I'm a full stack developer and I use this space to leave my little personal projects that I develop outside the work environment. To contact me:<br/> <a <a href="mailto:contato.fagner@icloud.com">contato.fagner@icloud.com</a></h3>
+</br>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=1000&color=87BDF7&width=435&lines=The+cosmos+is+all+that+is+or+" alt="Typing SVG" /></a>
+<br/>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=87BDF7&width=435&lines=ever+was+or+ever+will+be." alt="Typing SVG" /></a>
+</br>
+<img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/AEsna63rnGlOg/giphy.gif" />
 
-Hi, I'm <b>Fagner Menezes</b>, learning computing since my birth, passionate about technology and everything powered by it. I'm an eternal student and knowledge enthusiast.
-
-I work as a developer and I use this space to leave my little personal projects that I develop outside the work environment. To contact me: contato.fagnermenezes@gmail.com 
-<hr/>
-
-Olá, Sou <b>Fagner Menezes</b>, aprendendo computação desde o nascimento, apaixonado por tecnologia e tudo que é movido por ela. Sou um eterno estudante e entusiasta de conhecimentos.
-
-Trabalho como desenvolvedor e utilizo esse espaço para deixar meus pequenos projetos pessoais que desenvolvo fora do ambiente de trabalho.
-Para entrar em contato comigo: [contato.fagnermenezes@gmail.com]()
-<br />
-<br>
-  <img align="justify" height="136px" src="https://media.giphy.com/media/AEsna63rnGlOg/giphy.gif"> <br/><br/>
-<a href="https://www.linkedin.com/in/fagner-menezes/">
-    <img height="42" src="https://cdn2.iconfinder.com/data/icons/social-icon-3/512/social_style_3_in-306.png"/>
-</a>
-<a href="mailto:contato.fagnermenezes@gmail.com">
-    <img height="45" src="https://cdn0.iconfinder.com/data/icons/apple-apps/100/Apple_Mail-256.png"/>
-</a>
-<br>
- <ul>
+<ul>
  <li>⭐ Sofware Developer at <a href="https://www.dobesone.com.br">Dobes One</a>.
  <li>💬 Português (Brasil) / English (US)
  <li>✨ Javascript | Typescript | React | Node.js | Delphi <br>
  </ul>
-<div>
+
+---
+
+## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **some simple projects**
+
+<picture> <img align="right" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width = 250px></picture>
+  
+## Pokemon with Next.JS
+<a href="https://github.com/ryuuzera/pokemon-next-app/" target="_blank" ><img src = "https://media.giphy.com/media/FtgrxiiivLv9Cr7LQW/giphy.gif"/></a>
+
+## Genshin Impact App 
+<a href="https://github.com/ryuuzera/genshin-app" target="_blank"><img src = "https://media.giphy.com/media/r3DB8SbdP4BNrPIqxj/giphy.gif" /></a>
+
+## Credit Card runtime customize
+<a href="https://github.com/ryuuzera/next-credit-card" target="_blank" ><img src = "https://media.giphy.com/media/zE6ZmxjUv5X9aEKGBr/giphy.gif" /></a>
+
+## Orkut reboot (in progress)
+<a href="https://github.com/ryuuzera/orkut-reboot" target="_blank" ><img src = "https://media.giphy.com/media/lMY71dsuZOZnq8YKKb/giphy.gif" /></a>
 
 <div align="center">
 <h3> My Stacks </h3>
@@ -50,21 +56,24 @@ Para entrar em contato comigo: [contato.fagnermenezes@gmail.com]()
   </div>
   <hr />
   
-  ```pascal
-function aboutMe(fagner: developer): TDev;
-  begin
-    if Assigned(Fagner) then
-      try
-        Coding.Start;
-        repeat Coding() until
-          Coding.Ends;
-      finally
-        Result := Code.Done;
-      end
-    else
-     raise exception('Bring Coffee!');
-   end;
-  end;
+  ```typescript
+import { IDeveloper } from './world';
+
+class FullStack implements IDeveloper {
+   public aboutMe = async (fagner: developer): IDeveloper => {
+      if (fagner.developer) {
+        return this.codingStart();
+        while (this.isCoding) { 
+            Coffee.request();
+        }
+      } else { 
+        return this.studyingStart();
+        }
+     }
+}
+
+export default new FullStack();
+   
 ```
   
   <hr />
