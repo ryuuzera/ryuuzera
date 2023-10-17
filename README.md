@@ -11,9 +11,9 @@
 <img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/AEsna63rnGlOg/giphy.gif" />
 
 <ul>
- <li>⭐ Sofware Developer at <a href="https://www.dobesone.com.br">Dobes One</a>.
+ <li>⭐ Sofware Developer at <a href="https://www.agger.com.br">Agger</a>.
  <li>💬 Português (Brasil) / English (US)
- <li>✨ Javascript | Typescript | React | Node.js | Delphi <br>
+ <li>✨ Javascript | Typescript | React | Node.js | .NET |  Delphi <br>
  </ul>
 
 ---
