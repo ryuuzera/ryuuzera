@@ -17,8 +17,25 @@
  </ul>
 
 ---
+<br/>
+<div align="center">
+<h3> My Stacks </h3>
 
-## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **some simple projects**
+<img align="center" alt="Windows" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-plain.svg">
+<img align="center" alt="Windows" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg">
+<img align="center" alt="Windows" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-plain.svg"> 
+<img align="center" alt="Windows" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/dot-net/dot-net-plain-wordmark.svg">
+<img align="center" alt="Windows" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg">
+<img align="center" alt="Windows" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/react/react-original.svg">
+<img align="center" alt="Windows" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg">
+<img align="center" style="fill: 'red'" alt="Windows" height="40" width="40" src="https://cdn.aglty.io/bwql7jyk/Attachments/NewItems/image_20211214122557_0.png">
+<img align="center" alt="Windows" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg">
+<img align="center" alt="Windows" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain.svg"> 
+<img align="center" height="36px" src="http://www.andreanolanusse.com/pt/wp-content/uploads/2011/09/Icon_Delphi.png">
+</div> 
+
+## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> 
+**Some sample projects:**
 
 <picture> <img align="right" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width = 250px></picture>
   
@@ -39,21 +56,6 @@
 |----------|----------|
 | <a href="#"><img width="350" src="https://user-images.githubusercontent.com/87572712/224563485-c6e7ef82-ca8f-4924-9d43-b1868ffbdaf4.png"/></a> | <a href="#"><img width="350" src="https://user-images.githubusercontent.com/87572712/224563507-3d5d39ff-e667-45b7-9665-b4a7f88013c7.png"/></a> | 
 
-
-<div align="center">
-<h3> My Stacks </h3>
-
-<img align="center" height="36px" src="http://www.andreanolanusse.com/pt/wp-content/uploads/2011/09/Icon_Delphi.png">
-<img align="center" alt="Windows" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-plain.svg">
-<img align="center" alt="Windows" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg">
-<img align="center" alt="Windows" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-plain.svg"> 
-<img align="center" alt="Windows" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg">
-<img align="center" alt="Windows" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg">
-<img align="center" style="fill: 'red'" alt="Windows" height="40" width="40" src="https://cdn.aglty.io/bwql7jyk/Attachments/NewItems/image_20211214122557_0.png">
-<img align="center" alt="Windows" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg">
-<img align="center" alt="Windows" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain.svg"> 
-</div>
-</div>
 <br>
 <div align="center">  
    <img align="justify" height="155em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ryuuzera&langs_count=8&layout=compact&account_private=true&hide_border=false&theme=dracula" href="#">
