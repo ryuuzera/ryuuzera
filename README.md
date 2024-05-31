@@ -16,6 +16,9 @@
   <li>💬 Fluent in Portuguese (Brazil) and English (US)</li>
   <li>✨ Skills: Javascript, Typescript, React, Node.js, .NET, Delphi</li>
 </ul>
+<br/>
+<br/>
+<hr/>
 <div align="center">
   <h3>My Stacks</h3>
   <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-plain.svg" height="40" width="40">
@@ -30,6 +33,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain.svg" height="40" width="40">
   <img src="http://www.andreanolanusse.com/pt/wp-content/uploads/2011/09/Icon_Delphi.png" height="36">
 </div>
+<hr/>
 <img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width="50px"> Some Sample Projects:
 <picture><img align="right" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width="250px"></picture>
 
