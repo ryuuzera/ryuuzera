@@ -21,16 +21,16 @@
 <hr/>
 <div align="center">
   <h3>My Stacks</h3>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-plain.svg" height="40" width="40">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" height="40" width="40">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-plain.svg" height="40" width="40">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/typescript/typescript-plain.svg" height="40" width="40">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" height="40" width="40">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-plain.svg" height="40" width="40">
   <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/dot-net/dot-net-plain-wordmark.svg" height="40" width="40">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" height="40" width="40">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" height="40" width="40">
   <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/react/react-original.svg" height="40" width="40">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" height="40" width="40">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/materialui/materialui-original.svg" height="40" width="40">
   <img src="https://cdn.aglty.io/bwql7jyk/Attachments/NewItems/image_20211214122557_0.png" height="40" width="40">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" height="40" width="40">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain.svg" height="40" width="40">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" height="40" width="40">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-plain.svg" height="40" width="40">
   <img src="http://www.andreanolanusse.com/pt/wp-content/uploads/2011/09/Icon_Delphi.png" height="36">
 </div>
 <hr/>
