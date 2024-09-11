@@ -34,8 +34,6 @@
   <img src="http://www.andreanolanusse.com/pt/wp-content/uploads/2011/09/Icon_Delphi.png" height="36">
 </div>
 <hr/>
-<img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width="50px"> Some Sample Projects:
-<picture><img align="right" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width="250px"></picture>
 
 ## Pokemon with Next.JS
 <a href="https://github.com/ryuuzera/pokemon-next-app/" target="_blank"><img src="https://media.giphy.com/media/FtgrxiiivLv9Cr7LQW/giphy.gif"/></a>
