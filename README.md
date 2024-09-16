@@ -35,6 +35,9 @@
 </div>
 <hr/>
 
+## TRIMUI Smart Hub
+<a href="https://github.com/ryuuzera/TrimuiSmartHub" target="_blank"><img width="440" src="https://github.com/user-attachments/assets/23e613ea-ce6d-4687-a65e-5e02baa94fa2"/></a>
+
 ## Pokemon with Next.JS
 <a href="https://github.com/ryuuzera/pokemon-next-app/" target="_blank"><img src="https://media.giphy.com/media/FtgrxiiivLv9Cr7LQW/giphy.gif"/></a>
 
