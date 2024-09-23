@@ -60,5 +60,5 @@
 <tr>
 <td><a href="https://github.com/ryuuzera/orkut-reboot" target="_blank"><img width="335" src="https://media.giphy.com/media/lMY71dsuZOZnq8YKKb/giphy.gif"/></a>
 </td>
-<td><a href="#"><img width="167" src="https://user-images.githubusercontent.com/87572712/224563485-c6e7ef82-ca8f-4924-9d43-b1868ffbdaf4.png"/></a>	<a href="#"><img width="166" src="https://user-images.githubusercontent.com/87572712/224563507-3d5d39ff-e667-45b7-9665-b4a7f88013c7.png"/></a></tr></td>
+<td><a href="#"><img width="160" src="https://user-images.githubusercontent.com/87572712/224563485-c6e7ef82-ca8f-4924-9d43-b1868ffbdaf4.png"/></a>	<a href="#"><img width="160" src="https://user-images.githubusercontent.com/87572712/224563507-3d5d39ff-e667-45b7-9665-b4a7f88013c7.png"/></a></tr></td>
 </table>
