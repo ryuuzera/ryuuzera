@@ -35,8 +35,8 @@
 </div>
 <hr/>
 <div align="center">
-  <img height="195em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ryuuzera&langs_count=8&layout=compact&account_private=true&hide_border=true&theme=tokyonight">
-  <img height="195em" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ryuuzera&theme=tokyonight" />
+  <img height="155em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ryuuzera&langs_count=8&layout=compact&account_private=true&hide_border=true&theme=tokyonight">
+  <img height="155em" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ryuuzera&theme=tokyonight" />
 </div>
 <hr/>
 
