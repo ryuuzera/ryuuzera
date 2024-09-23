@@ -34,6 +34,12 @@
   <img src="http://www.andreanolanusse.com/pt/wp-content/uploads/2011/09/Icon_Delphi.png" height="36">
 </div>
 <hr/>
+<div align="center">
+  <img height="195em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ryuuzera&langs_count=8&layout=compact&account_private=true&hide_border=true&theme=tokyonight">
+  <img height="195em" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ryuuzera&theme=tokyonight" />
+</div>
+<hr/>
+
 
 ## TRIMUI Smart Hub
 <a href="https://github.com/ryuuzera/TrimuiSmartHub" target="_blank"><img width="440" src="https://github.com/user-attachments/assets/23e613ea-ce6d-4687-a65e-5e02baa94fa2"/></a>
@@ -52,7 +58,4 @@
 
 ## FetchFood Autoservice (in progress)
 <a href="#"><img width="250" src="https://user-images.githubusercontent.com/87572712/224563485-c6e7ef82-ca8f-4924-9d43-b1868ffbdaf4.png"/></a>	<a href="#"><img width="250" src="https://user-images.githubusercontent.com/87572712/224563507-3d5d39ff-e667-45b7-9665-b4a7f88013c7.png"/></a>
-<div align="left">
-  <img height="155em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ryuuzera&langs_count=8&layout=compact&account_private=true&hide_border=false&theme=dracula">
-  <img height="155em" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ryuuzera&theme=dracula" />
-</div>
+
