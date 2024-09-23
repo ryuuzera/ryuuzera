@@ -1,22 +1,23 @@
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css">
 <h3 align="center">Hi, I'm Fagner Menezes, a lifelong learner passionate about technology. I'm a full stack developer sharing my personal projects here. Reach me at: <a href="mailto:contato.fagner@icloud.com">contato.fagner@icloud.com</a></h3>
-<p align="center">
-  <a href="https://git.io/typing-svg">
+
+<table align="center">
+<td>
+  <ul>
+    <li>⭐ <b>Software Developer at <a href="https://www.agger.com.br">Agger</a></b></li>
+    <li>💬 <b>Portuguese (Brazil) and English (US)</b></li>
+    <li>✨ <b>Skills: Javascript, Typescript, React, Node.js, .NET, Delphi</b></li>
+  </ul>
+</td>
+<td align="center">
+  <a  href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=1000&color=87BDF7&width=435&lines=The+cosmos+is+all+that+is+or+" alt="Typing SVG" />
   </a>
-  <br/>
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=87BDF7&width=435&lines=ever+was+or+ever+will+be." alt="Typing SVG" />
   </a>
-</p>
-<img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/AEsna63rnGlOg/giphy.gif" />
-<ul>
-  <li>⭐ Software Developer at <a href="https://www.agger.com.br">Agger</a></li>
-  <li>💬 Fluent in Portuguese (Brazil) and English (US)</li>
-  <li>✨ Skills: Javascript, Typescript, React, Node.js, .NET, Delphi</li>
-</ul>
-<br/>
-<br/>
+</td>
+</table>
 <hr/>
 <div align="center">
   <h3>My Stacks</h3>
