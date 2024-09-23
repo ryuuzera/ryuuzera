@@ -14,7 +14,7 @@
 <ul>
   <li>⭐ Software Developer at <a href="https://www.agger.com.br">Agger</a></li>
   <li>💬 Fluent in Portuguese (Brazil) and English (US)</li>
-  <li>✨ Skills: Javascript, Typescript, React, Node.js, .NET, Delphi</li>
+  <li>✨ Skills: Javascript, Typescript, .NET, React, Node.js, Delphi</li>
 </ul>
 <br/>
 <br/>
