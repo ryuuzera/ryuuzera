@@ -1,5 +1,4 @@
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css">
-<h1 align="center">Hello, World <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h1>
 <h3 align="center">Hi, I'm Fagner Menezes, a lifelong learner passionate about technology. I'm a full stack developer sharing my personal projects here. Reach me at: <a href="mailto:contato.fagner@icloud.com">contato.fagner@icloud.com</a></h3>
 <p align="center">
   <a href="https://git.io/typing-svg">
