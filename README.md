@@ -39,7 +39,7 @@
   <img height="155em" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ryuuzera&theme=tokyonight" />
 </div>
 <hr/>
-<details open> 
+<details> 
   <summary><h3>💻 Some of my projects</h2></summary>
 <table align="center">
   <tr>
