@@ -38,6 +38,11 @@
   <img height="155em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ryuuzera&langs_count=8&layout=compact&account_private=true&hide_border=true&theme=tokyonight">
   <img height="155em" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ryuuzera&theme=tokyonight" />
 </div>
+
+<h2 align="center">🏆 Github Trophys</h2>
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=ryuuzera&theme=onedark)](#)
+
 <hr/>
 <details> 
   <summary><h3>💻 Some of my projects</h2></summary>
