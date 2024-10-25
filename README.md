@@ -40,8 +40,10 @@
 </div>
 
 <h2 align="center">🏆 Github Trophys</h2>
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=ryuuzera&theme=onedark)](#)
+<div align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=ryuuzera&theme=onedark&title=-Reviews"/>
+  
+</div>
 
 <hr/>
 <details> 
