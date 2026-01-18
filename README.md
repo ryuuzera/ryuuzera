@@ -1,48 +1,44 @@
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css">
-<h3 align="center">Hi, I'm Fagner Menezes, a lifelong learner passionate about technology. I'm a full stack developer sharing my personal projects here. Reach me at: <a href="mailto:contato.fagner@icloud.com">contato.fagner@icloud.com</a></h3>
+<div align="center" width="300px">
+<h4 align="left">Hi, I'm Fagner Menezes, a lifelong learner passionate about technology.<br/> I'm a full stack developer sharing my personal projects here. <br/> Reach me at: <a href="mailto:contato.fagner@icloud.com">contato.fagner@icloud.com</a></h4>
+</div>
 
-<table align="center">
-<td>
-  <ul>
-    <li>⭐ <b>Software Developer at <a href="https://www.agger.com.br">Agger</a></b></li>
-    <li>💬 <b>Portuguese (Brazil) and English (US)</b></li>
-    <li>✨ <b>Skills: Javascript, Typescript, React, Node.js, .NET, Delphi</b></li>
-  </ul>
-</td>
-<td align="center">
-  <a  href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=1000&color=87BDF7&width=435&lines=The+cosmos+is+all+that+is+or+" alt="Typing SVG" />
-  </a>
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=87BDF7&width=435&lines=ever+was+or+ever+will+be." alt="Typing SVG" />
-  </a>
-</td>
-</table>
 <hr/>
+<div align="center">
+<img src="https://github-terminal-readme.nexflare.com.br/api/stats/ryuuzera?theme=dracula"/>
+</div>
 <div align="center">
   <h3>My Stacks</h3>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/typescript/typescript-plain.svg" height="40" width="40">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" height="40" width="40">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-plain.svg" height="40" width="40">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/dot-net/dot-net-plain-wordmark.svg" height="40" width="40">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" height="40" width="40">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/react/react-original.svg" height="40" width="40">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/materialui/materialui-original.svg" height="40" width="40">
-  <img src="https://cdn.aglty.io/bwql7jyk/Attachments/NewItems/image_20211214122557_0.png" height="40" width="40">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" height="40" width="40">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-plain.svg" height="40" width="40">
-  <img src="http://www.andreanolanusse.com/pt/wp-content/uploads/2011/09/Icon_Delphi.png" height="36">
-</div>
-<hr/>
-<div align="center">
-  <img height="155em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ryuuzera&langs_count=8&layout=compact&account_private=true&hide_border=true&theme=tokyonight">
-  <img height="155em" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ryuuzera&theme=tokyonight" />
-</div>
 
-<h2 align="center">🏆 Github Trophys</h2>
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=ryuuzera&theme=onedark&title=-Reviews"/>
-  
+  <table>
+    <tr>
+      <td align="center"><strong>Frontend</strong></td>
+      <td align="center">
+        <img src="https://skillicons.dev/icons?i=nextjs,angular,react,js,ts,html,css" height="35" alt="frontend" />
+      </td>
+    </tr>
+    <tr>
+      <td align="center"><strong>Backend</strong></td>
+      <td align="center">
+        <img src="https://skillicons.dev/icons?i=cs,dotnet,nodejs,go" height="35" alt="backend" />
+       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/delphi/delphi-original.svg" height="35" alt="delphi" />
+      </td>
+    </tr>
+    <tr>
+      <td align="center"><strong>Databases</strong></td>
+      <td align="center">
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" height="35"  />
+        <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis" height="35" alt="databases" />
+      </td>
+    </tr>
+    <tr>
+      <td align="center"><strong>Cloud & DevOps</strong></td>
+      <td align="center">
+        <img src="https://skillicons.dev/icons?i=docker,azure,aws" height="35" alt="cloud-ops" />
+      </td>
+    </tr>
+  </table>
+
 </div>
 
 <hr/>
