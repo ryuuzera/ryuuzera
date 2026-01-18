@@ -5,7 +5,7 @@
 
 <hr/>
 <div align="center">
-<img src="https://github-terminal-readme.nexflare.com.br/api/stats/ryuuzera?theme=dracula"/>
+<img src="https://github-terminal-readme.nexflare.com.br/api/stats/ryuuzera?theme=tokyonight"/>
 </div>
 <div align="center">
   <h3>My Stacks</h3>
