@@ -4,10 +4,10 @@
 </div>
 
 <hr/>
-<div align="center">
+<div align="left">
 <img src="https://github-terminal-readme.nexflare.com.br/api/stats/ryuuzera?theme=tokyonight"/>
 </div>
-<div align="center">
+<div align="left">
   <h3>My Stacks</h3>
 
   <table>
