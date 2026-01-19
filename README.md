@@ -5,7 +5,9 @@
 <hr/>
 
 <div align="left">
+  <a href="https://github.com/ryuuzera/github-readme-terminal" target="_blank">
   <img src="https://github-terminal-readme.nexflare.com.br/api/stats/ryuuzera?theme=tokyonight&customstack=true&stacks=csharp,dotnetcore,nodejs,go,delphi,nextjs,angularjs,react,javascript,typescript,html5,css3,postgresql,mysql,mongodb,redis,docker,azure" alt="GitHub Terminal Status" />
+  </a>
 </div>
 
 <hr/>
